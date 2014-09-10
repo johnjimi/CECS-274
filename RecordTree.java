@@ -1,4 +1,7 @@
 //package baseballplayer;
+//For my reference, don't copy my code, that's stealing and bad things happen. Use it for reference.
+//You are liable if you dare to steal. I warned you.
+//Sincerly Jimi
 
 import java.util.*;
 
